@@ -1,0 +1,8 @@
+ID_Activo,Nombre_Activo,Amenaza_Modelada,Impacto(1-5),Probabilidad(1-5),Nivel_Riesgo(IxP),Clasificacion
+AST-01,SCADA Reactor,[AM-01] Ransomware Industrial (Cifrado consolas),5,5,25,CRITICO
+DAT-02,Logs Forenses,[AM-05] Anti-Forense (Borrado de trazas),5,4,20,MUY ALTO
+RED-03,Pasarela IT/OT,[AM-04] Movimiento Lateral (Salto de red),5,4,20,MUY ALTO
+AST-03,HMI Sala Control,[AM-04] Phishing / Compromiso Credenciales,4,4,16,ALTO
+AST-02,PLC Seguridad,[AM-02] Sabotaje Interno (Modif. set-points),5,3,15,ALTO
+SRV-01,Historian Server,[AM-01] Ransomware Genérico,3,5,15,ALTO
+DAT-01,Planos Ingenieria,[AM-03] Exfiltración / Espionaje Industrial,4,3,12,MEDIO
